@@ -1,7 +1,7 @@
 # Processing-Art
 <p>P_Animation contains pictures of each animation frame, while the rest of the static images are included in P_Still_Images.</p>
 <p>All projects were created in 2016 in high school. P_BallArrayList was created for the Syracuse University Project Advance Computer Engineering course, while the rest were for the Technology Apps in Math course using Processing (Java). Led by Matthew Harbinger, the last part of the latter course taught the intersection between art and programming using Processing v3 (Java).</p>
-# Project Goals
+# Goals
 <p>P_Animation — Create a looping animation.</p>
 <p>P_Arraylab2: Print all words from an imported text file that are worth 100 points, setting 'a' to 1 and 'z' to 26.</p>
 <p>P_BallArrayList — Spawn circles in a random color at a random velocity that:
